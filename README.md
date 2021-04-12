@@ -24,7 +24,7 @@ Build
 docker-compose build
 ```
 
-Set port (in docker-compose.yml) 1234
+Set port 1234 in docker-compose.yml (optional)
 
 Up (daemon mode)
 ```
