@@ -17,3 +17,16 @@ Or
 git submodule update --init 
 ```
 
+### Docker compose
+
+Build
+```
+docker-compose build
+```
+
+Set port (in docker-compose.yml) 1234
+
+Up (daemon mode)
+```
+docker-compose up -d
+```
